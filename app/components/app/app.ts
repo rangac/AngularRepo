@@ -5,7 +5,6 @@ import {HomeCmp} from '../home/home';
 import {NameList} from '../../services/name_list';
 import {UsersCmp} from '../users/users';
 import {UserService} from '../users/services/user_service';
-
 import {componentProxyFactory} from '../../services/component_proxy';
 
 @Component({
