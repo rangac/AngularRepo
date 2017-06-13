@@ -4,7 +4,6 @@ import {Directive, ElementRef, EventEmitter, Output, Input} from 'angular2/core'
  * The button is then disabled until the action is completed.
  * It handles state via the [loading-more] property.
  * Shows how an example of how to emit custom events (sample-custom-event) with a value.
- *
  * @Example:
  *  <button type="button" 
  *    loading 
