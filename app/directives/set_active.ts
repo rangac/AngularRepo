@@ -8,7 +8,6 @@ import {
 } from 'angular2/core';
 import {Location} from 'angular2/router';
 import 'rxjs/add/operator/map';
-
 /**
  * Simple directive to add class active on a LI element when
  * its A child element is clicked or on page load. Active class
